@@ -16,4 +16,6 @@ to the frontend. <br>
 7. Visualizations including overall sentiment and sentiment over time are displayed to the 
 user. <br>
 
-Note- if you want to try sentinic out, then you need to enter the url that you get after you click on show all reviews link on the amazon product page.
+Note- if you want to try sentinic out, then you need to enter the url that you get after you click on *show all reviews* link on the amazon product page.
+
+
