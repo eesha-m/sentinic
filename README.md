@@ -18,4 +18,11 @@ user. <br>
 
 Note- if you want to try sentinic out, then you need to enter the url that you get after you click on *show all reviews* link on the amazon product page.
 
+### Demo :
+
+https://user-images.githubusercontent.com/89638054/166449511-5af0e9de-0e5a-4e4b-8ce4-f52e6c30c466.mp4
+
+
+
+
 
