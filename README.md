@@ -20,8 +20,12 @@ Note- if you want to try sentinic out, then you need to enter the url that you g
 
 ### Demo :
 
-https://user-images.githubusercontent.com/89638054/166449511-5af0e9de-0e5a-4e4b-8ce4-f52e6c30c466.mp4
 
+
+
+
+
+https://user-images.githubusercontent.com/89638054/166449687-5c1a2a28-138f-48d0-9e4a-4b0b53daba84.mp4
 
 
 
